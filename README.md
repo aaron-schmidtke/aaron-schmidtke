@@ -1,6 +1,6 @@
 # Hello there 👋, I'm Aaron Schmidtke
 
-A passionate developer from Germany
+*An aspiring IT specialist from Germany*
 
 ![](https://komarev.com/ghpvc/?username=aaronschmidtke&color=blue&style=for-the-badge)
 
