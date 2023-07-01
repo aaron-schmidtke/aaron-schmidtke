@@ -1,1 +1,1 @@
-I'm @AaronSchmidtke, a full-time student.
+# Hey, I'm Aaron Schmidtke
