@@ -4,4 +4,4 @@
 
 ![](https://komarev.com/ghpvc/?username=aaronschmidtke&color=blue&style=for-the-badge)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronschmidtke&show_icons=true&theme=transparent)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronschmidtke&show_icons=true&theme=transparent) -->
