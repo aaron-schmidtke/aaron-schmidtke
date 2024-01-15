@@ -1,4 +1,4 @@
-# Hello there 👋, I'm Aaron Schmidtke
+# Hello there, I'm Aaron Schmidtke 👋
 
 *An aspiring IT specialist from Germany*
 
